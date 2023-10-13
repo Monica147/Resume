@@ -1,0 +1,17 @@
+body{
+    background-image: linear-gradient(to bottom,pink,rgb(131, 131, 239));
+}
+#h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#h4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#information{
+    word-spacing: 100px;
+}
